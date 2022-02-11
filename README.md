@@ -14,9 +14,9 @@ Make sure you have Python 3 installed, as well as the following libraries:
 # Usage
 
 suggest to create an conda Virtual environmnment and set up the environment. 
-Simply clone this repository, and run 
+Simply clone this repository,  run 
 
-'''
+```
 git clone https://github.com/connormcl/chord_recognizer.git
 cd chord_recognizer
 conda activate "ur virtual enviroment"　
