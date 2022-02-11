@@ -14,12 +14,12 @@ Make sure you have Python 3 installed, as well as the following libraries:
 
 # Usage
 
-suggest to create an conda Virtual environmnment and set up the environment. 
+suggest to create an conda virtual environmnment and set up the environment. 
 Simply clone this repository,  run 
 
 ```
-git clone https://github.com/connormcl/chord_recognizer.git
-cd chord_recognizer
+git clone https://github.com/iisannn/Socketio-Chord-Recognizer.git
+cd Socketio-Chord-Recognizer
 conda activate "ur virtual enviroment"　
 python Live_demo2.py 
 ```
