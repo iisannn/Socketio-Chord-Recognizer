@@ -26,7 +26,7 @@ python Live_demo2.py
 go to http://127.0.0.1:5000/ in ur web browser 
 
 # problem 
-  the checkpoint in the neural network takes in a 2 channels wave file while web recording only allows one channel recording.
+  the checkpoint in the neural network takes in a 2 channels wav file while web recording only allows one channel recording.
 
 
 # References
