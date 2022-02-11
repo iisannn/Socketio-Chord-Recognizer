@@ -3,6 +3,7 @@
 Utilize flask socketIo with Feedforward neural network for live guitar chord recognition could potentially be implement to A-frame. 
 
 
+
 # Dependencies
 Make sure you have Python 3 installed, as well as the following libraries:
 - [TensorFlow](https://www.tensorflow.org/install/)
@@ -33,3 +34,5 @@ go to http://127.0.0.1:5000/ in ur web browser
 - this neural network is built by nonnormcl (https://github.com/connormcl/chord_recognizer)
 - Record audio wav file on html file with RecordRTC 
 - connect web server communication with Flask_socketio 
+- guitXR's github https://github.com/UWRealityLab/xrcapstone21sp-team4
+- 
