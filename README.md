@@ -1,6 +1,6 @@
 
 # Flask Socketio with Guitar Chord Recognizer
-Utilize flask socketIo with Feedforward neural network for live guitar chord recognition could potentially be implement to A-frame. 
+Utilize flask socketIo with feedforward neural network for live guitar chord recognition could potentially be implement to A-frame. 
 
 
 
