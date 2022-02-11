@@ -31,5 +31,5 @@ go to http://127.0.0.1:5000/ in ur web browser
 
 # References
 - this neural network is built by nonnormcl (https://github.com/connormcl/chord_recognizer)
-- Record on html file with RecordRTC 
-- connect with Flask_socketio 
+- Record audio wav file on html file with RecordRTC 
+- connect web server communication with Flask_socketio 
