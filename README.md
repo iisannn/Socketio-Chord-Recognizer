@@ -35,4 +35,3 @@ go to http://127.0.0.1:5000/ in ur web browser
 - Record audio wav file on html file with RecordRTC 
 - connect web server communication with Flask_socketio 
 - guitXR's github https://github.com/UWRealityLab/xrcapstone21sp-team4
-- 
