@@ -5,6 +5,8 @@ Utilize flask socketIo with feedforward neural network for live guitar chord rec
 
 
 # Dependencies
+suggest to create an conda virtual environmnment and set up in it. 
+
 Make sure you have Python 3 installed, as well as the following libraries:
 - [TensorFlow](https://www.tensorflow.org/install/)
 - [Numpy](http://www.numpy.org/)
@@ -14,7 +16,6 @@ Make sure you have Python 3 installed, as well as the following libraries:
 
 # Usage
 
-suggest to create an conda virtual environmnment and set up. 
 clone this repository,  run 
 
 ```
@@ -24,7 +25,7 @@ conda activate "ur virtual enviroment"　
 python Live_demo2.py 
 ```
 
-go to http://127.0.0.1:5000/ in ur web browser 
+go to http://127.0.0.1:5000/ in your web browser 
 
 # problem 
   the checkpoint in the neural network takes in a 2 channels wav file while web recording only allows one channel recording.
