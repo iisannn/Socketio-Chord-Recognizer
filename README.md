@@ -14,8 +14,8 @@ Make sure you have Python 3 installed, as well as the following libraries:
 
 # Usage
 
-suggest to create an conda virtual environmnment and set up the environment. 
-Simply clone this repository,  run 
+suggest to create an conda virtual environmnment and set up. 
+clone this repository,  run 
 
 ```
 git clone https://github.com/iisannn/Socketio-Chord-Recognizer.git
