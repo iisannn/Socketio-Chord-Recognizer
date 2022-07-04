@@ -5,7 +5,7 @@ Utilize flask socketIo with feedforward neural network for live guitar chord rec
 
 
 # Dependencies
-suggest to create an conda virtual environmnment and set up in it. 
+Suggest to create an conda virtual environmnment and set up the dependencies. 
 
 Make sure you have Python 3 installed, as well as the following libraries:
 - [TensorFlow](https://www.tensorflow.org/install/)
