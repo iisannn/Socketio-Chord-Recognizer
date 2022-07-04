@@ -1,6 +1,6 @@
 
 # Flask Socketio with Guitar Chord Recognizer
-Utilize flask socketIo with feedforward neural network for live guitar chord recognition could later be implemented to A-frame. 
+Utilize Flask SocketIo with feedforward neural network for live guitar chord recognition could later be implemented to A-frame. 
 
 
 
@@ -27,12 +27,12 @@ python Live_demo2.py
 
 go to http://127.0.0.1:5000/ in your web browser 
 
-# problem 
+# Problem facing
   the checkpoint in the neural network takes in a 2 channels wav file while web recording only allows one channel recording.
 
 
 # References
-- this neural network is built by nonnormcl (https://github.com/connormcl/chord_recognizer)
+- This neural network is built by nonnormcl (https://github.com/connormcl/chord_recognizer)
 - Record audio wav file on html file with RecordRTC 
-- connect web server communication with Flask_socketio 
+- Connect web server communication with Flask_socketio 
 - guitXR's github https://github.com/UWRealityLab/xrcapstone21sp-team4
