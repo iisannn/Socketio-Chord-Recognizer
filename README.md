@@ -12,7 +12,8 @@ Make sure you have Python 3 installed, as well as the following libraries:
 - [Numpy](http://www.numpy.org/)
 - [Sklearn](http://scikit-learn.org/stable/)
 - [PyAudio](https://people.csail.mit.edu/hubert/pyaudio/)
-  * Note: PyAudio requires the prerequisite portaudio library to be installed. On Mac, this can be installed using homebrew.
+- [Flask](https://flask-socketio.readthedocs.io/en/latest/intro.html#installation)
+
 
 # Usage
 
@@ -28,7 +29,7 @@ python Live_demo2.py
 go to http://127.0.0.1:5000/ in your web browser 
 
 # Problem facing
-  the checkpoint in the neural network takes in a 2 channels wav file while web recording only allows one channel recording.
+  the checkpoint in the neural network takes in a 2 channels wav file while web recording only allows one channel recording. 
 
 
 # References
